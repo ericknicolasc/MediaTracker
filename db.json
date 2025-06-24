@@ -1,0 +1,374 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Cyberpunk 2077",
+      "description": "Futuristic open-world RPG.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+      "releaseDate": "2020-12-10",
+      "developer": "CD Projekt Red"
+    },
+    {
+      "id": "2",
+      "title": "The Witcher 3",
+      "description": "Epic fantasy adventure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg",
+      "releaseDate": "2015-05-19",
+      "developer": "CD Projekt Red"
+    },
+    {
+      "id": "3",
+      "title": "Elden Ring",
+      "description": "Open-world action RPG with deep lore.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg",
+      "releaseDate": "2022-02-25",
+      "developer": "FromSoftware"
+    },
+    {
+      "id": "4",
+      "title": "God of War",
+      "description": "Mythology-based action-adventure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg",
+      "releaseDate": "2018-04-20",
+      "developer": "Santa Monica Studio"
+    },
+    {
+      "id": "5",
+      "title": "Red Dead Redemption 2",
+      "description": "Open-world Western action-adventure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
+      "releaseDate": "2018-10-26",
+      "developer": "Rockstar Games"
+    },
+    {
+      "id": "6",
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "description": "Open-world adventure in a vast fantasy world.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg",
+      "releaseDate": "2017-03-03",
+      "developer": "Nintendo"
+    },
+    {
+      "id": "7",
+      "title": "Hollow Knight",
+      "description": "Metroidvania with challenging gameplay.",
+      "imageUrl": "https://images.squarespace-cdn.com/content/v1/606d159a953867291018f801/1619987722169-VV6ZASHHZNRBJW9X0PLK/Key_Art_02_layeredjpg.jpg?format=1500w",
+      "releaseDate": "2017-02-24",
+      "developer": "Team Cherry"
+    },
+    {
+      "id": "8",
+      "title": "Horizon Zero Dawn",
+      "description": "Action RPG in a post-apocalyptic world.",
+      "imageUrl": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2716/16b33fa9a5c7285ba86a035b4a1c5f8eb430b407eae35ffd.png",
+      "releaseDate": "2017-02-28",
+      "developer": "Guerrilla Games"
+    },
+    {
+      "id": "9",
+      "title": "Sekiro: Shadows Die Twice",
+      "description": "Stealth-action with intense combat.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg",
+      "releaseDate": "2019-03-22",
+      "developer": "FromSoftware"
+    },
+    {
+      "id": "10",
+      "title": "Ghost of Tsushima",
+      "description": "Samurai action-adventure in feudal Japan.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/64/Ghost_of_Tsushima.jpg",
+      "releaseDate": "2020-07-17",
+      "developer": "Sucker Punch Productions"
+    },
+    {
+      "id": "11",
+      "title": "Bloodborne",
+      "description": "Gothic action RPG with brutal difficulty.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg",
+      "releaseDate": "2015-03-24",
+      "developer": "FromSoftware"
+    },
+    {
+      "id": "12",
+      "title": "Spider-Man",
+      "description": "Open-world superhero action-adventure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/Marvel%27s_Spider-Man_game_cover.jpg",
+      "releaseDate": "2018-09-07",
+      "developer": "Insomniac Games"
+    },
+    {
+      "id": "13",
+      "title": "Final Fantasy VII Remake",
+      "description": "Modern reimagining of a classic RPG.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/c/ce/FFVIIRemake.jpg",
+      "releaseDate": "2020-04-10",
+      "developer": "Square Enix"
+    },
+    {
+      "id": "14",
+      "title": "Dark Souls III",
+      "description": "Challenging action RPG with dark fantasy themes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/94/Dark_Souls_III_Cover_Art.jpg",
+      "releaseDate": "2016-03-24",
+      "developer": "FromSoftware"
+    },
+    {
+      "id": "15",
+      "title": "Super Mario Odyssey",
+      "description": "Mario embarks on a globe-trotting adventure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Super_Mario_Odyssey.jpg",
+      "releaseDate": "2017-10-27",
+      "developer": "Nintendo"
+    },
+    {
+      "id": "16",
+      "title": "Persona 5",
+      "description": "Stylish JRPG about high schoolers and their alter-egos.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Persona_5_cover_art.jpg",
+      "releaseDate": "2016-09-15",
+      "developer": "Atlus"
+    },
+    {
+      "id": "17",
+      "title": "DOOM Eternal",
+      "description": "Fast-paced demon-slaying FPS.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8e/Doom_Eternal.jpg",
+      "releaseDate": "2020-03-20",
+      "developer": "id Software"
+    },
+    {
+      "id": "18",
+      "title": "Celeste",
+      "description": "Challenging platformer about climbing a mountain.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9c/Celeste_boxart.jpg",
+      "releaseDate": "2018-01-25",
+      "developer": "Matt Makes Games"
+    },
+    {
+      "id": "19",
+      "title": "Resident Evil 2 (Remake)",
+      "description": "Survival horror classic reimagined.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9e/Resident_Evil_2_Remake.jpg",
+      "releaseDate": "2019-01-25",
+      "developer": "Capcom"
+    },
+    {
+      "id": "20",
+      "title": "Monster Hunter: World",
+      "description": "Hunt massive monsters in a living, breathing ecosystem.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2c/Monster_Hunter_World_cover_art.jpg",
+      "releaseDate": "2018-01-26",
+      "developer": "Capcom"
+    },
+    {
+      "id": "21",
+      "title": "Jojo Battle Royale",
+      "description": "Jogo baseado no anime Jojo.",
+      "imageUrl": "https://static.wikia.nocookie.net/jjba/images/6/6d/JoJo%E2%80%99s_Bizarre_Adventure_Last_Survivor.png",
+      "releaseDate": "2024-05-04",
+      "developer": "hidetaka"
+    },
+    {
+      "id": "22",
+      "title": "Dragon Ball FighterZ",
+      "description": "Jogo de luta baseado no anime Dragon Ball.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/0c/Dragon_Ball_FighterZ_cover_art.png",
+      "releaseDate": "2025-05-04",
+      "developer": "Arc System Works"
+    },
+    {
+      "id": "23",
+      "title": "The Last of Us Part II",
+      "description": "Survival action-adventure in a post-apocalyptic world.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/4f/The_Last_of_Us_Part_II_cover_art.jpg",
+      "releaseDate": "2020-06-19",
+      "developer": "Naughty Dog"
+    },
+    {
+      "id": "24",
+      "title": "Uncharted 4: A Thief's End",
+      "description": "Action-adventure with treasure hunting.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Uncharted_4_box_artwork.jpg",
+      "releaseDate": "2016-05-10",
+      "developer": "Naughty Dog"
+    },
+    {
+      "id": "25",
+      "title": "Assassin's Creed Valhalla",
+      "description": "Viking-themed open-world action RPG.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/a/a7/Assassin%27s_Creed_Valhalla_cover.jpg",
+      "releaseDate": "2020-11-10",
+      "developer": "Ubisoft"
+    },
+    {
+      "id": "26",
+      "title": "Control",
+      "description": "Supernatural action-adventure in a mysterious building.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/5a/Control_Cover_Art.png",
+      "releaseDate": "2019-08-27",
+      "developer": "Remedy Entertainment"
+    },
+    {
+      "id": "27",
+      "title": "Death Stranding",
+      "description": "Unique open-world delivery adventure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2a/Death_Stranding.jpg",
+      "releaseDate": "2019-11-08",
+      "developer": "Kojima Productions"
+    },
+    {
+      "id": "28",
+      "title": "Genshin Impact",
+      "description": "Open-world action RPG with elemental magic.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/0/00/Genshin_Impact_cover.jpg",
+      "releaseDate": "2020-09-28",
+      "developer": "miHoYo"
+    },
+    {
+      "id": "29",
+      "title": "Forza Horizon 5",
+      "description": "Open-world racing in Mexico.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/Forza_Horizon_5_cover_art.jpg",
+      "releaseDate": "2021-11-09",
+      "developer": "Playground Games"
+    },
+    {
+      "id": "30",
+      "title": "Gran Turismo 7",
+      "description": "Realistic racing simulator.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/2/2e/Gran_Turismo_7_cover_art.jpg",
+      "releaseDate": "2022-03-04",
+      "developer": "Polyphony Digital"
+    },
+    {
+      "id": "31",
+      "title": "It Takes Two",
+      "description": "Co-op puzzle platformer adventure.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6e/It_Takes_Two_cover.jpg",
+      "releaseDate": "2021-03-26",
+      "developer": "Hazelight Studios"
+    },
+    {
+      "id": "32",
+      "title": "Returnal",
+      "description": "Roguelike third-person shooter.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/Returnal_cover_art.jpg",
+      "releaseDate": "2021-04-30",
+      "developer": "Housemarque"
+    },
+    {
+      "id": "33",
+      "title": "Ratchet & Clank: Rift Apart",
+      "description": "Dimension-hopping action platformer.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Ratchet_%26_Clank_Rift_Apart_cover.jpg",
+      "releaseDate": "2021-06-11",
+      "developer": "Insomniac Games"
+    },
+    {
+      "id": "34",
+      "title": "Metroid Dread",
+      "description": "Sci-fi action-adventure platformer.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6b/Metroid_Dread.jpg",
+      "releaseDate": "2021-10-08",
+      "developer": "MercurySteam"
+    },
+    {
+      "id": "35",
+      "title": "Resident Evil Village",
+      "description": "Survival horror in a mysterious village.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6c/Resident_Evil_Village.png",
+      "releaseDate": "2021-05-07",
+      "developer": "Capcom"
+    },
+    {
+      "id": "36",
+      "title": "Marvel's Guardians of the Galaxy",
+      "description": "Action-adventure with Marvel's cosmic heroes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/7/7e/Marvel%27s_Guardians_of_the_Galaxy_%282021_video_game%29.jpg",
+      "releaseDate": "2021-10-26",
+      "developer": "Eidos-Montréal"
+    },
+    {
+      "id": "37",
+      "title": "NieR: Automata",
+      "description": "Action RPG with philosophical themes.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8a/Nier_Automata_cover_art.jpg",
+      "releaseDate": "2017-02-23",
+      "developer": "PlatinumGames"
+    },
+    {
+      "id": "38",
+      "title": "Cuphead",
+      "description": "Challenging run-and-gun platformer with cartoon art.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/4/45/Cuphead_%28artwork%29.jpg",
+      "releaseDate": "2017-09-29",
+      "developer": "Studio MDHR"
+    },
+    {
+      "id": "39",
+      "title": "Undertale",
+      "description": "Indie RPG with unique combat and humor.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6a/Undertale_cover_art.png",
+      "releaseDate": "2015-09-15",
+      "developer": "Toby Fox"
+    },
+    {
+      "id": "40",
+      "title": "Stardew Valley",
+      "description": "Farming and life simulation indie game.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/6/6d/Stardew_Valley_cover_art.png",
+      "releaseDate": "2016-02-26",
+      "developer": "ConcernedApe"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "gameId": 1,
+      "author": "Alice",
+      "rating": 9,
+      "comment": "Amazing game with immersive world.",
+      "createdAt": "2023-01-01"
+    },
+    {
+      "id": "2",
+      "gameId": 2,
+      "author": "Bob",
+      "rating": 10,
+      "comment": "Masterpiece of storytelling.",
+      "createdAt": "2023-02-01"
+    },
+    {
+      "id": "0",
+      "gameId": 1,
+      "author": "erick",
+      "rating": 10,
+      "comment": "jogaço um dos melhores dos ultimos tempos",
+      "createdAt": "2025-06-17"
+    },
+    {
+      "id": 0,
+      "gameId": 5,
+      "author": "erick",
+      "rating": 10,
+      "comment": "simplesmente impecavel do inicio ao fim",
+      "createdAt": "2025-06-17"
+    },
+    {
+      "id": "1iA1rKu",
+      "gameId": 3,
+      "author": "top",
+      "rating": 4,
+      "comment": "muito bom",
+      "createdAt": "2025-06-24"
+    },
+    {
+      "id": "CsjHDEk",
+      "gameId": 4,
+      "author": "dogpool",
+      "rating": 8,
+      "comment": "muito bom seria bem melhor sem o atreus",
+      "createdAt": "2025-06-24"
+    }
+  ]
+}
